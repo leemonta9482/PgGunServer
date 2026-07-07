@@ -673,9 +673,9 @@
           "name": "join_multiplayer_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 32014,
+            "size": 32003,
             "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
-            "MD5": "9b01b0d97bc6e34c14ede3d83fdf384e",
+            "MD5": "6e371f631cb347ad95bb0c25ba84eebc",
             "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
           }
         },
@@ -750,9 +750,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4398,
+            "size": 4399,
             "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "21540080cc1853fc45e858015624434a",
+            "MD5": "bbf58ab289630a4c3f1d54f35be42baa",
             "path": "config/fancymenu/options.txt"
           }
         },
