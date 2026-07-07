@@ -601,6 +601,435 @@
             "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/forgemods/required/tacz-1.20.1-1.1.8-hotfix.jar",
             "MD5": "65e19238d5669d1a74305ba7e49408f7"
           }
+        },
+        {
+          "id": "asteorbar-client.toml",
+          "name": "asteorbar-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 14428,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/asteorbar-client.toml",
+            "MD5": "dff65422319a954dcd1c60839e9a045d",
+            "path": "config/asteorbar-client.toml"
+          }
+        },
+        {
+          "id": "curios-client.toml",
+          "name": "curios-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 706,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/curios-client.toml",
+            "MD5": "67aaec1814836fed2d3e021c29ef6848",
+            "path": "config/curios-client.toml"
+          }
+        },
+        {
+          "id": "curios-common.toml",
+          "name": "curios-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/curios-common.toml",
+            "MD5": "4e1978c603823135e91f736983a96649",
+            "path": "config/curios-common.toml"
+          }
+        },
+        {
+          "id": "0.png",
+          "name": "0.png",
+          "type": "File",
+          "artifact": {
+            "size": 1227092,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/assets/0.png",
+            "MD5": "28a58c22c3a3fe69bbbc178df3f82c6d",
+            "path": "config/fancymenu/assets/0.png"
+          }
+        },
+        {
+          "id": "1.png",
+          "name": "1.png",
+          "type": "File",
+          "artifact": {
+            "size": 1371576,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/assets/1.png",
+            "MD5": "07737196e5257e7f3c98a7bff5a89182",
+            "path": "config/fancymenu/assets/1.png"
+          }
+        },
+        {
+          "id": "customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "6d6756816b1f7a2d5b16185d9725a2eb",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "join_multiplayer_screen_layout.txt",
+          "name": "join_multiplayer_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 32014,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+            "MD5": "9b01b0d97bc6e34c14ede3d83fdf384e",
+            "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+          }
+        },
+        {
+          "id": "options_screen_layout.txt",
+          "name": "options_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 45134,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/customization/options_screen_layout.txt",
+            "MD5": "1bcaade067e5556d1d844d5be3b1dc3b",
+            "path": "config/fancymenu/customization/options_screen_layout.txt"
+          }
+        },
+        {
+          "id": "pause_screen_layout.txt",
+          "name": "pause_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 37326,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "MD5": "e02447b4ca6d2a26d95130f315fa24e5",
+            "path": "config/fancymenu/customization/pause_screen_layout.txt"
+          }
+        },
+        {
+          "id": "title_screen_layout.txt",
+          "name": "title_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 45512,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
+            "MD5": "a28a95b5899ea30518741b5bafb25c6c",
+            "path": "config/fancymenu/customization/title_screen_layout.txt"
+          }
+        },
+        {
+          "id": "custom_gui_screens.txt",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "106e52948415f0879c53304f50783b28",
+            "path": "config/fancymenu/custom_gui_screens.txt"
+          }
+        },
+        {
+          "id": "element_layer_control.lewidget",
+          "name": "element_layer_control.lewidget",
+          "type": "File",
+          "artifact": {
+            "size": 200,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "MD5": "3d2c2604f9c9d6c0eef8bfe8d126a653",
+            "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+          }
+        },
+        {
+          "id": "legacy_checklist.txt",
+          "name": "legacy_checklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/legacy_checklist.txt",
+            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "path": "config/fancymenu/legacy_checklist.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4398,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/options.txt",
+            "MD5": "21540080cc1853fc45e858015624434a",
+            "path": "config/fancymenu/options.txt"
+          }
+        },
+        {
+          "id": "cherry_blossom.json",
+          "name": "cherry_blossom.json",
+          "type": "File",
+          "artifact": {
+            "size": 9349,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/ui_themes/cherry_blossom.json",
+            "MD5": "90e358ee1c6bbd1d17bbcdad0a504f3d",
+            "path": "config/fancymenu/ui_themes/cherry_blossom.json"
+          }
+        },
+        {
+          "id": "cozy_campfire.json",
+          "name": "cozy_campfire.json",
+          "type": "File",
+          "artifact": {
+            "size": 9347,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/ui_themes/cozy_campfire.json",
+            "MD5": "02b0cd78a482dbd7ec793e123f4c007b",
+            "path": "config/fancymenu/ui_themes/cozy_campfire.json"
+          }
+        },
+        {
+          "id": "dark.json",
+          "name": "dark.json",
+          "type": "File",
+          "artifact": {
+            "size": 9329,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/ui_themes/dark.json",
+            "MD5": "cbf30e731636c918d598f1ad9b0ea371",
+            "path": "config/fancymenu/ui_themes/dark.json"
+          }
+        },
+        {
+          "id": "dark_high_contrast.json",
+          "name": "dark_high_contrast.json",
+          "type": "File",
+          "artifact": {
+            "size": 9359,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/ui_themes/dark_high_contrast.json",
+            "MD5": "4b532a7a5c5ecd839e55a3c083c8bca3",
+            "path": "config/fancymenu/ui_themes/dark_high_contrast.json"
+          }
+        },
+        {
+          "id": "light.json",
+          "name": "light.json",
+          "type": "File",
+          "artifact": {
+            "size": 9331,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/ui_themes/light.json",
+            "MD5": "f3980d6eed1064c36d794d7b1030fd06",
+            "path": "config/fancymenu/ui_themes/light.json"
+          }
+        },
+        {
+          "id": "light_high_contrast.json",
+          "name": "light_high_contrast.json",
+          "type": "File",
+          "artifact": {
+            "size": 9361,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/ui_themes/light_high_contrast.json",
+            "MD5": "700ff9cd0e95ac2234e0494af729226a",
+            "path": "config/fancymenu/ui_themes/light_high_contrast.json"
+          }
+        },
+        {
+          "id": "pumpkin_soup.json",
+          "name": "pumpkin_soup.json",
+          "type": "File",
+          "artifact": {
+            "size": 9345,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/ui_themes/pumpkin_soup.json",
+            "MD5": "d322c4bde872420ddeb2eaa124d0f16a",
+            "path": "config/fancymenu/ui_themes/pumpkin_soup.json"
+          }
+        },
+        {
+          "id": "purple_void.json",
+          "name": "purple_void.json",
+          "type": "File",
+          "artifact": {
+            "size": 9343,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/ui_themes/purple_void.json",
+            "MD5": "79df3b7ab7a74d55e3f5bb70cd996dea",
+            "path": "config/fancymenu/ui_themes/purple_void.json"
+          }
+        },
+        {
+          "id": "spooky_season.json",
+          "name": "spooky_season.json",
+          "type": "File",
+          "artifact": {
+            "size": 9347,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/ui_themes/spooky_season.json",
+            "MD5": "c45cc6e6bd9c4a296227e764dcf1e953",
+            "path": "config/fancymenu/ui_themes/spooky_season.json"
+          }
+        },
+        {
+          "id": "user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 23,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fancymenu/user_variables.db",
+            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+            "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1148,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/fml.toml",
+            "MD5": "c12cf21cfc5d310aafcb72cd6d9b4ece",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "forge-client.toml",
+          "name": "forge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1628,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/forge-client.toml",
+            "MD5": "94d0dcbf248b1ee18bf1266c672327a1",
+            "path": "config/forge-client.toml"
+          }
+        },
+        {
+          "id": "client-config.toml",
+          "name": "client-config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 52,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/inline/client-config.toml",
+            "MD5": "3e68d0bae748fb636fe308eb1d2e8e1e",
+            "path": "config/inline/client-config.toml"
+          }
+        },
+        {
+          "id": "irons_spellbooks-client.toml",
+          "name": "irons_spellbooks-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3575,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/irons_spellbooks-client.toml",
+            "MD5": "b60f4e412f784df9e3a1e3ad8f5683ba",
+            "path": "config/irons_spellbooks-client.toml"
+          }
+        },
+        {
+          "id": "global_config.json",
+          "name": "global_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 257,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/irons_spellbooks_spell_config/global_config.json",
+            "MD5": "6cb19eead383de25ac484d1d88c32abf",
+            "path": "config/irons_spellbooks_spell_config/global_config.json"
+          }
+        },
+        {
+          "id": "example.txt",
+          "name": "example.txt",
+          "type": "File",
+          "artifact": {
+            "size": 683,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/irons_spellbooks_spell_config/irons_spellbooks/example.txt",
+            "MD5": "c4e79051d7d340d3dd4c60aca31b8d6e",
+            "path": "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
+          }
+        },
+        {
+          "id": "de_de.local",
+          "name": "de_de.local",
+          "type": "File",
+          "artifact": {
+            "size": 369,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/konkrete/locals/de_de.local",
+            "MD5": "3aac3df2519057d2305f894c37771e30",
+            "path": "config/konkrete/locals/de_de.local"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 426,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/konkrete/locals/en_us.local",
+            "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
+            "path": "config/konkrete/locals/en_us.local"
+          }
+        },
+        {
+          "id": "pl_pl.local",
+          "name": "pl_pl.local",
+          "type": "File",
+          "artifact": {
+            "size": 313,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/konkrete/locals/pl_pl.local",
+            "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
+            "path": "config/konkrete/locals/pl_pl.local"
+          }
+        },
+        {
+          "id": "pt_br.local",
+          "name": "pt_br.local",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/konkrete/locals/pt_br.local",
+            "MD5": "2d055da094c115b94f0e4373a2e06ebe",
+            "path": "config/konkrete/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "koreanpatch.json5",
+          "name": "koreanpatch.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1513,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/koreanpatch.json5",
+            "MD5": "db57d63145cae2aa9d67e8b160151008",
+            "path": "config/koreanpatch.json5"
+          }
+        },
+        {
+          "id": "paucal-common.toml",
+          "name": "paucal-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 209,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/paucal-common.toml",
+            "MD5": "84dbcd01e1ec80b864d8542ccc10185d",
+            "path": "config/paucal-common.toml"
+          }
+        },
+        {
+          "id": "tacz-client.toml",
+          "name": "tacz-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3712,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/tacz-client.toml",
+            "MD5": "884bc4eb3a6860f6b0e021964e136dbf",
+            "path": "config/tacz-client.toml"
+          }
+        },
+        {
+          "id": "tacz-common.toml",
+          "name": "tacz-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2172,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/config/tacz-common.toml",
+            "MD5": "a0094e7d081be356dd5974c2bf6b5420",
+            "path": "config/tacz-common.toml"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5475,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/files/options.txt",
+            "MD5": "4c4d89ca9ef50f7df537de1faf540fc1",
+            "path": "options.txt"
+          }
         }
       ]
     }
