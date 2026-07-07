@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/Monta/Desktop/CustomLauncher/PgGunServer-Root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "PgGunServer (Minecraft 1.20.1)",
+    "description": "PgGunServer Running Minecraft 1.20.1 (Forge v47.4.10)",
+    "icon": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/server-icon.png",
+    "address": "mtsoft.kro.kr:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.10"
+  },
+  "untrackedFiles": []
+}
