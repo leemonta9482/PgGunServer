@@ -563,6 +563,16 @@
           }
         },
         {
+          "id": "de.keksuccino:melody:1.0.2@jar",
+          "name": "Melody",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37178,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "MD5": "6b528d368f7fcbf737df28f2457cdec6"
+          }
+        },
+        {
           "id": "at.petrak:paucal:0.6.0+1.20.1-forge@jar",
           "name": "PAUCAL",
           "type": "ForgeMod",
