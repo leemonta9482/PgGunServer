@@ -453,6 +453,16 @@
           }
         },
         {
+          "id": "net.blay09.mods:balm:7.3.39@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 601013,
+            "url": "https://raw.githubusercontent.com/leemonta9482/PgGunServer/main/Launcher/servers/PgGunServer-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.39-all.jar",
+            "MD5": "07df7f52c4995af2811e22bc14c2f2af"
+          }
+        },
+        {
           "id": "top.theillusivec4:caelus:3.1.0+1.20@jar",
           "name": "Caelus API",
           "type": "ForgeMod",
